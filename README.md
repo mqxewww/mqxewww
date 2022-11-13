@@ -34,6 +34,9 @@
     <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/javascript-original.svg" alt="javascript">
     </a>
+        <a margin="10" href="https://www.typescriptlang.org/" target="_blank">
+      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/typescript-original.svg" alt="typescript">
+    </a>
     <a margin="10" href="https://getbootstrap.com/" target="_blank">
       <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/bootstrap-original.svg" alt="bootstrap">
     </a>
