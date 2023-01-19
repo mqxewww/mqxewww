@@ -6,61 +6,50 @@
       alt="twitter"
     />
   </a>
-  <a href="https://mqxewww.dev" target="_blank">
+  <!-- <a href="https://portfolio.apps.mqxewww.dev" target="_blank">
     <img
       src="https://img.shields.io/website?down_color=red&down_message=offline&label=my%20website&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Fmqxewww.dev"
       alt="my website"
     />
-  </a>
+  </a> -->
   <br />
   <br />
-  I'm a french Full-Stack developer with a strong preference for the backend side.
+  I'm Maxence, 20 years old, and I'm a French Full-Stack developer.<br />
+  3rd year of application design and development.
   <br />
 
   <h2>About :pushpin:</h2>
   Always interested in discovering new languages, frameworks, ...<br />
   Obsessed with making my programs optimized and well-ordered.<br />
-  I use the Visual Studio Code IDE.
+  Also a fan of FromSoftwares and FPS games.
   <br />
 
-  <h2>Tech :pencil2:</h2>
+  <h2>My stack</h2>
   <div align="center">
-    <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/html5-original.svg" alt="html5">
-    </a>
-    <a margin="10" href="https://www.php.net/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/php-original.svg" alt="php">
-    </a>
-    <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/javascript-original.svg" alt="javascript">
-    </a>
-        <a margin="10" href="https://www.typescriptlang.org/" target="_blank">
+    <a margin="10" href="https://www.typescriptlang.org/" target="_blank">
       <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/typescript-original.svg" alt="typescript">
     </a>
-    <a margin="10" href="https://getbootstrap.com/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/bootstrap-original.svg" alt="bootstrap">
+    <a margin="10" href="https://nextjs.org/" target="_blank">
+      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/nextjs-original.svg" alt="nextjs">
     </a>
-    <a margin="10" href="https://sass-lang.com/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/sass-original.svg" alt="sass">
+    <a margin="10" href="https://tailwindcss.com/" target="_blank">
+      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/tailwindcss-original.svg" alt="tailwindcss">
     </a>
     <br />
     <br />
-    <a margin="10" href="https://vuejs.org/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/vuejs-original.svg" alt="vuejs">
-    </a>
-    <a margin="10" href="https://reactjs.org/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/react-original.svg" alt="react">
+    <a margin="10" href="https://www.typescriptlang.org/" target="_blank">
+      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/typescript-original.svg" alt="typescript">
     </a>
     <a margin="10" href="https://nestjs.com/" target="_blank">
       <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/nestjs-plain.svg" alt="nestjs">
+    </a>
+    <a margin="10" href="https://www.docker.com/" target="_blank">
+      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/docker-original-wordmark.svg" alt="docker">
     </a>
     <br />
     <br />
     <a margin="10" href="https://www.mysql.com/" target="_blank">
       <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/mysql-original.svg" alt="mysql">
-    </a>
-    <a margin="10" href="https://www.mongodb.com/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/mongodb-original.svg" alt="mongodb">
     </a>
   </div>
 
