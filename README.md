@@ -50,7 +50,7 @@
     <br />
     <br />
     <a href="https://www.mysql.com/">
-      <img height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/mysql-original.svg" alt="mysql">
+      <img height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/mysql-original-wordmark.svg" alt="mysql">
     </a>
   </div>
   
