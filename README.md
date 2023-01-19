@@ -26,33 +26,33 @@
 
   <h2>My stack</h2>
   <div align="center">
-    <a margin="10" href="https://www.typescriptlang.org/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/typescript-original.svg" alt="typescript">
+    <a href="https://www.typescriptlang.org/">
+      <img height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/typescript-original.svg" alt="typescript">
     </a>
-    <a margin="10" href="https://nextjs.org/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/nextjs-original.svg" alt="nextjs">
+    <a href="https://reactjs.org/">
+      <img height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/react-original.svg" alt="react">
     </a>
-    <a margin="10" href="https://tailwindcss.com/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/tailwindcss-original.svg" alt="tailwindcss">
+    <a href="https://nextjs.org/">
+      <img height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/nextjs-original.svg" alt="nextjs">
     </a>
-    <br />
-    <br />
-    <a margin="10" href="https://www.typescriptlang.org/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/typescript-original.svg" alt="typescript">
-    </a>
-    <a margin="10" href="https://nestjs.com/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/nestjs-plain.svg" alt="nestjs">
-    </a>
-    <a margin="10" href="https://www.docker.com/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/docker-original-wordmark.svg" alt="docker">
+    <a href="https://tailwindcss.com/">
+      <img height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/tailwindcss-plain.svg" alt="tailwindcss">
     </a>
     <br />
     <br />
-    <a margin="10" href="https://www.mysql.com/" target="_blank">
-      <img margin="10px" height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/mysql-original.svg" alt="mysql">
+    <a href="https://nestjs.com/">
+      <img height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/nestjs-plain.svg" alt="nestjs">
+    </a>
+    <a href="https://www.docker.com/">
+      <img height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/docker-original-wordmark.svg" alt="docker">
+    </a>
+    <br />
+    <br />
+    <a href="https://www.mysql.com/">
+      <img height="40" src="https://github.com/mqxewww/mqxewww/blob/main/svgs/mysql-original.svg" alt="mysql">
     </a>
   </div>
-
+  
   <h2>Github stats :star2:</h2>
   <br />
   <div>
