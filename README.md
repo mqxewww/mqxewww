@@ -24,7 +24,7 @@
   Also a fan of FromSoftwares and FPS games.
   <br />
   <br />
-  You can find my other projects [here](https://github.com/mqxewww-school-projects).
+  You can find my other projects here : https://github.com/mqxewww-school-projects.
   <br />
 
   <h2>My stack</h2>
