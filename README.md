@@ -6,12 +6,12 @@
       alt="twitter"
     />
   </a>
-  <!-- <a href="https://portfolio.apps.mqxewww.dev" target="_blank">
+  <a href="https://www.youtube.com/@mqxewww" target="_blank">
     <img
-      src="https://img.shields.io/website?down_color=red&down_message=offline&label=my%20website&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Fmqxewww.dev"
-      alt="my website"
+      src="https://img.shields.io/badge/youtube-%252300acee.svg?color=ff0000&style=for-the-badge&logo=youtube&logoColor=white"
+      alt="youtube"
     />
-  </a> -->
+  </a>
   <br />
   <br />
   I'm Maxence, 20 years old, and I'm a French Full-Stack developer.<br />
@@ -22,6 +22,9 @@
   Always interested in discovering new languages, frameworks, ...<br />
   Obsessed with making my programs optimized and well-ordered.<br />
   Also a fan of FromSoftwares and FPS games.
+  <br />
+  <br />
+  You can find my other projects [here](https://github.com/mqxewww-school-projects).
   <br />
 
   <h2>My stack</h2>
