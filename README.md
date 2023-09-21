@@ -14,7 +14,7 @@
   </a>
   <br />
   <br />
-  I'm Maxence, 20 years old, and I'm a French Full-Stack developer.<br />
+  I'm Maxence, 21 years old, and I'm a French Full-Stack developer.<br />
   3rd year of application design and development.
   <br />
 
