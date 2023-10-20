@@ -1,19 +1,5 @@
 <div align="center">
   <h2>Hi, Welcome to my Github profile ! :wave:</h2>
-  <a href="https://twitter.com/mqxewww" target="_blank">
-    <img
-      src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
-      alt="twitter"
-    />
-  </a>
-  <a href="https://www.youtube.com/@mqxewww" target="_blank">
-    <img
-      src="https://img.shields.io/badge/youtube-%252300acee.svg?color=ff0000&style=for-the-badge&logo=youtube&logoColor=white"
-      alt="youtube"
-    />
-  </a>
-  <br />
-  <br />
   I'm Maxence, 21 years old, and I'm a French Full-Stack developer.<br />
   3rd year of application design and development.
   <br />
@@ -22,9 +8,6 @@
   Always interested in discovering new languages, frameworks, ...<br />
   Obsessed with making my programs optimized and well-ordered.<br />
   Also a fan of FromSoftwares and FPS games.
-  <br />
-  <br />
-  You can find my other projects here : https://github.com/mqxewww-school-projects.
   <br />
 
   <h2>My stack</h2>
