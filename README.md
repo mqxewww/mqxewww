@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi, Welcome to my Github profile ! :wave:</h2>
-  I'm Maxence, 21 years old, and I'm a French Full-Stack developer.<br />
+  I'm Maxence, 22 years old, and I'm a French developer.<br />
   3rd year of application design and development.
   <br />
 
