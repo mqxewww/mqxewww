@@ -20,5 +20,4 @@ I am 23 years old and I come from 🇫🇷 France. Passionate about technology, 
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://streak-stats.demolab.com?user=mqxewww&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mqxewww&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
