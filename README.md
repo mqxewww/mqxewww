@@ -7,17 +7,8 @@ I am 23 years old and I come from 🇫🇷 France. Passionate about technology, 
 
 <br>
 
-### 🔨 Main Stack:
-[![Main Stack](https://skillicons.dev/icons?i=typescript,nextjs,tailwindcss,nestjs,webstorm,docker)](https://skillicons.dev)
-
-#### 🔨 I also use LAMP :
-[![LAMP Stack](https://skillicons.dev/icons?i=linux,ubuntu,mysql,php)](https://skillicons.dev)
-
-#### 🔬 Experimented on side projects :
-[![Experimented Stack](https://skillicons.dev/icons?i=astro,angular,java,python,dotnet,mongodb)](https://skillicons.dev)
-
-<br>
-
-### 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mqxewww&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img alt="first-row" src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,php"/><br/>
+  <img alt="second-row" src="https://skillicons.dev/icons?i=astro,symfony,vuejs,vite,nextjs,nestjs,mysql,mongodb,docker,webstorm,phpstorm,github"/><br/>
+  <img alt="third-row" src="https://skillicons.dev/icons?i=dotnet,python,pytorch"/>
+</div>
