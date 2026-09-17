@@ -7,7 +7,7 @@
 
 <br>
 
-I am 23 years old and I come from 🇫🇷 France. Passionate about technology, I love exploring new languages and frameworks. Obsessed with writing clean, efficient code and constantly optimizing my programs. Outside of coding, I'm also passionate about video games — especially community tournaments and speedruns.
+I am 24 years old and I come from 🇫🇷 France. Passionate about technology, I love exploring new languages and frameworks. Obsessed with writing clean, efficient code and constantly optimizing my programs. Outside of coding, I'm also passionate about video games — especially community tournaments and speedruns.
 
 <br>
 
